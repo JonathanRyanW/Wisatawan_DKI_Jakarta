@@ -44,4 +44,6 @@ gabungan. untuk data gabungan 2020 belum diubah.
 Kita melihat bahwa memang di tahun 2020 langsung terjadi penurunan drastis
 jumlah pengunjung di berbagai tempat wisata. Sedih liatnya tapi ini memang
 hal yang harus dilakukan karena kondisi pandemi.
-"""
+
+
+Tes ini scriptnya diedit mau tau apakah bisa di push atau tidak. Oh ternyata bisa!
